@@ -19,3 +19,41 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.sec1, .sec2, .sec3 {
+    border-radius: 10px;
+    color: rgb(243, 243, 243);
+    padding: 10px 20px;
+    height: 100px;
+}
+.sec1 {
+    background-image: linear-gradient(0deg, rgb(233, 61, 90), pink);
+}
+.sec2 {
+    background-image: linear-gradient(0deg, rgb(201, 195, 10), rgb(225, 240, 89));
+}
+.sec3 {
+    background-image: linear-gradient(0deg, rgb(44, 56, 216), rgb(124, 123, 213));
+}
+.shoe-section {
+    text-align: right;
+    color:white;
+    background-image: linear-gradient(45deg, rgb(75, 255, 120), rgb(30,25,120));
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+}
+.card-footer {
+    border-top: none;
+}
+.subscribe {
+    height: 300px;
+}
+.subscribe h6 {
+    color: gray;
+}
+footer {
+    text-align: center;
+}
